@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giovanaassis&show_icons=true&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/giovanaassis">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaassis&hide_progress=true&theme=gruvbox_light" />
+  <img height=200 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaassis&hide_progress=true&theme=gruvbox_light" />
 </a>
 
 <div style="display: inline_block"><br>
