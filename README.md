@@ -1,13 +1,14 @@
 ## Olá! Fique à vontade ~ 👋
 
 - 🌱 Estudando Node.Js / Typescript
-
-<a href="https://github.com/giovanaassis">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giovanaassis&show_icons=true&theme=gruvbox_light" />
-</a>
-<a href="https://github.com/giovanaassis">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaassis&hide_progress=true&theme=gruvbox_light" />
-</a>
+<div>
+  <a href="https://github.com/giovanaassis">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giovanaassis&show_icons=true&theme=gruvbox_light" />
+  </a>
+  <a href="https://github.com/giovanaassis">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaassis&hide_progress=true&theme=gruvbox_light" />
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gigi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
