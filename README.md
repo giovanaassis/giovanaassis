@@ -1,4 +1,4 @@
-## Olá! Fique à vontade ~ 👋
+## Olá! Fique à vontade 👋
 
 - 🌱 Estudando Node.Js / Typescript
 <div>
