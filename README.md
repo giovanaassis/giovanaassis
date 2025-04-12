@@ -1,6 +1,6 @@
 ## Olá! Fique à vontade 👋
 
-- 🌱 Atualmente estudando Node.Js / Typescript
+- 🌱 Atualmente estudando React / Typescript
 - 🚀 Apaixonada por criar soluções eficientes, simples e de impacto
 - 💼 Em busca de uma oportunidade de estágio ou primeira experiência profissional na área de desenvolvimento de software.
 
