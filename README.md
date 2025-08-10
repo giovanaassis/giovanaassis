@@ -1,7 +1,7 @@
 ## Olá! Fique à vontade 👋
 
-- 🌱 Atualmente estudando Next.Js
-- 🚀 Apaixonada por criar soluções eficientes, simples e de impacto
+- 🌱 Atualmente estudando Next.Js.
+- 🚀 Apaixonada por criar soluções eficientes, simples e de impacto.
 - 💼 Em busca de uma oportunidade de estágio ou primeira experiência profissional na área de desenvolvimento de software.
 
 #### **Vamos colaborar! 🌍**
